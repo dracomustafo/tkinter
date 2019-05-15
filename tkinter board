@@ -1,2 +1,6 @@
-import tkinter 
+from tkinter import *
+import tkinter.messagebox
+tk = Tk()
+tk.title("Voting Booth")
+
 
