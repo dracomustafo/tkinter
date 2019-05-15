@@ -2,5 +2,5 @@ from tkinter import *
 import tkinter.messagebox
 tk = Tk()
 tk.title("Voting Booth")
-
+prompt.label
 
